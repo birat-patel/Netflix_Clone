@@ -33,7 +33,7 @@ It includes a **movie carousel with sliding functionality** and an **FAQ accordi
 ## Screenshots  
 
 ### Home Page
-![Home Page](assets/webside-view/Screenshot 2200101.png)
+![Home Page](https://github.com/birat-patel/Netflix_Clone/blob/4be6fbde34450ff709ffbfdc0f4320f6c530dc22/assets/webside-view/Screenshot%202200101.png)
 
 ### Main Section
 ![Main Section](https://github.com/birat-patel/Netflix_Clone/blob/b817ee5b1ff74e4242574b6019c5b270dd42e124/assets/webside-view/Screenshot%202200102.png)
@@ -42,7 +42,7 @@ It includes a **movie carousel with sliding functionality** and an **FAQ accordi
 ![FAQ Section](https://github.com/birat-patel/Netflix_Clone/blob/main/assets/webside-view/Screenshot%202200103.png?raw=true)
 
 ### Footer
-![Footer](assets/webside-view/Screenshot 2200104.png)
+![Footer](https://github.com/birat-patel/Netflix_Clone/blob/4be6fbde34450ff709ffbfdc0f4320f6c530dc22/assets/webside-view/Screenshot%202200104.png)
 
 
 ## How to Run Locally  
