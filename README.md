@@ -17,10 +17,6 @@ It includes a **movie carousel with sliding functionality** and an **FAQ accordi
 - **JavaScript** (DOM manipulation, event handling)  
 
 
-## View Live Project
- [View Project](https://birat-patel.github.io/Netflix-clone/)  
-
-
 ## Folder Structure  
  Netflix-clone/
  ├── index.html
@@ -37,17 +33,16 @@ It includes a **movie carousel with sliding functionality** and an **FAQ accordi
 ## Screenshots  
 
 ### Home Page
-![Home Page](https://github.com/birat-patel/Netflix-clone/blob/main/assets/webside-view/Screenshot%202025-09-05%20200103.png?raw=true)
+![Home Page](assets/webside-view/Screenshot 2200101.png)
 
 ### Main Section
-![Main Section](https://github.com/birat-patel/Netflix-clone/blob/81a157fd7a06ead019f7bbe23cdce3ae4c38a651/assets/webside-view/Screenshot%202025-09-05%20200202.png
-)
+![Main Section](https://github.com/birat-patel/Netflix_Clone/blob/b817ee5b1ff74e4242574b6019c5b270dd42e124/assets/webside-view/Screenshot%202200102.png)
 
 ### FAQ Section
-![FAQ Section](https://github.com/birat-patel/Netflix-clone/blob/81a157fd7a06ead019f7bbe23cdce3ae4c38a651/assets/webside-view/Screenshot%202025-09-05%20200137.png)
+![FAQ Section](https://github.com/birat-patel/Netflix_Clone/blob/main/assets/webside-view/Screenshot%202200103.png?raw=true)
 
 ### Footer
-![Footer](https://github.com/birat-patel/Netflix-clone/blob/81a157fd7a06ead019f7bbe23cdce3ae4c38a651/assets/webside-view/Screenshot%202025-09-05%20200227.png)
+![Footer](assets/webside-view/Screenshot 2200104.png)
 
 
 ## How to Run Locally  
