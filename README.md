@@ -55,7 +55,7 @@ open index.html   # or just run with Live Server in VS Code
 ## Author
 Birat Kumar
 
-Note: This project is made only for practice & learning purposes and is not an official Netflix product.
+## Note: This project is made only for practice & learning purposes and is not an official Netflix product.
 
 
 
