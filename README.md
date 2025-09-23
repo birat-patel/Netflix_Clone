@@ -18,7 +18,7 @@ It includes a **movie carousel with sliding functionality** and an **FAQ accordi
 
 
 ## Folder Structure  
- Netflix-clone/
+ Netflix_clone/
  ├── index.html
  ├── style.css
  ├── responsive.css
@@ -47,8 +47,8 @@ It includes a **movie carousel with sliding functionality** and an **FAQ accordi
 
 ## How to Run Locally  
 ```bash
-git clone https://github.com/birat-patel/Netflix-clone
-cd Netflix-clone
+git clone https://github.com/birat-patel/Netflix_clone
+cd Netflix_clone
 open index.html   # or just run with Live Server in VS Code
 ```
 
